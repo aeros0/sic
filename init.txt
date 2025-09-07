@@ -1,0 +1,13 @@
+rundll32.exe keymgr.dll,KRShowKeyMgr
+
+
+git push origin main
+
+
+git lfs install
+
+git lfs track "*.rar"
+
+git add .gitattributes
+
+git add your.rar
